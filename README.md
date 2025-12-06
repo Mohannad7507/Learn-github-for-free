@@ -21,7 +21,7 @@
 
 -----
 
-## \<a name="introduction"\>\</a\>Introduction
+## Introduction
 
 Most developers learn `git add` and `git push`, but panic when they encounter a merge conflict or need to revert a production bug. **Collab-Hub** is not a passive tutorial; it is a **simulation**. You will act as a Junior DevOps Engineer at a fictional startup, working through scenarios that require professional-grade version control skills.
 
@@ -34,7 +34,7 @@ Most developers learn `git add` and `git push`, but panic when they encounter a 
 
 -----
 
-## \<a name="prerequisites--setup"\>\</a\>Prerequisites & Setup
+## Prerequisites & Setup
 
 Before entering the simulation, ensure your environment is ready.
 
@@ -45,7 +45,7 @@ Before entering the simulation, ensure your environment is ready.
 
 -----
 
-## \<a name="module-1-the-git-mental-model--configuration"\>\</a\>Module 1: The Git Mental Model & Configuration
+## Module 1: The Git Mental Model & Configuration
 
 **Objective:** Understand the "Three Trees" architecture (Working Directory, Staging Area, Repository) and establish your digital identity.
 
@@ -85,7 +85,7 @@ We will create a **Service-Oriented Architecture** (SOA) simulation.
 
 -----
 
-## \<a name="module-2-advanced-branching-strategies"\>\</a\>Module 2: Advanced Branching Strategies
+## Module 2: Advanced Branching Strategies
 
 **Objective:** Move beyond `main`. Learn to manage Feature Branches and Integration Branches.
 
@@ -133,7 +133,7 @@ You must understand the difference between the three merge types:
 
 -----
 
-## \<a name="module-3-surviving-merge-conflict-hell"\>\</a\>Module 3: Surviving Merge Conflict Hell
+## Module 3: Surviving Merge Conflict Hell
 
 **Objective:** Intentionally create a conflict to demystify the resolution process.
 
@@ -173,7 +173,7 @@ Open the file. You will see markers:
 
 -----
 
-## \<a name="module-4-cleaning-history-with-interactive-rebase"\>\</a\>Module 4: Cleaning History with Interactive Rebase
+## Module 4: Cleaning History with Interactive Rebase
 
 **Objective:** Present a professional commit history. "WIP" (Work In Progress) commits should never reach the `main` branch.
 
@@ -204,7 +204,7 @@ This opens your text editor with a list of commits.
 
 -----
 
-## \<a name="module-5-monorepos--submodules"\>\</a\>Module 5: Monorepos & Submodules
+## Module 5: Monorepos & Submodules
 
 **Objective:** Simulate a complex corporate environment where multiple projects live in one "Monorepo."
 
@@ -225,7 +225,7 @@ Submodules allow you to keep a Git repository as a subdirectory of another Git r
 
 -----
 
-## \<a name="module-6-project-management-with-github-issues"\>\</a\>Module 6: Project Management with GitHub Issues
+## Module 6: Project Management with GitHub Issues
 
 **Objective:** Link code to business logic.
 
@@ -238,7 +238,7 @@ Submodules allow you to keep a Git repository as a subdirectory of another Git r
 
 -----
 
-## \<a name="module-7-cicd-pipelines-with-github-actions"\>\</a\>Module 7: CI/CD Pipelines with GitHub Actions
+## Module 7: CI/CD Pipelines with GitHub Actions
 
 **Objective:** If it isn't automated, it doesn't exist. Block bad code from merging.
 
@@ -272,7 +272,7 @@ jobs:
 
 -----
 
-## \<a name="module-8-debugging-with-bisect--blame"\>\</a\>Module 8: Debugging with Bisect & Blame
+## Module 8: Debugging with Bisect & Blame
 
 **Objective:** Use algorithmic debugging to find bugs in massive codebases.
 
@@ -300,7 +300,7 @@ When you have 100 commits and don't know which one caused a crash:
 
 -----
 
-## \<a name="module-9-disaster-recovery-drills"\>\</a\>Module 9: Disaster Recovery Drills
+## Module 9: Disaster Recovery Drills
 
 **Objective:** Fix "Career-Ending" mistakes.
 
@@ -318,7 +318,7 @@ You merged a bug into `main` and pushed it.
 
 -----
 
-## \<a name="module-10-the-final-boss-simulation"\>\</a\>Module 10: The Final Boss Simulation
+## Module 10: The Final Boss Simulation
 
 **Time Limit:** 60 Minutes.
 **Role:** Lead Engineer.
