@@ -6,18 +6,18 @@
 
 ## 📖 Table of Contents
 
-1.  [Introduction](https://www.google.com/search?q=%23introduction)
-2.  [Prerequisites & Setup](https://www.google.com/search?q=%23prerequisites--setup)
-3.  [Module 1: The Git Mental Model & Configuration](https://www.google.com/search?q=%23module-1-the-git-mental-model--configuration)
-4.  [Module 2: Advanced Branching Strategies](https://www.google.com/search?q=%23module-2-advanced-branching-strategies)
-5.  [Module 3: Surviving Merge Conflict Hell](https://www.google.com/search?q=%23module-3-surviving-merge-conflict-hell)
-6.  [Module 4: Cleaning History with Interactive Rebase](https://www.google.com/search?q=%23module-4-cleaning-history-with-interactive-rebase)
-7.  [Module 5: Monorepos & Submodules](https://www.google.com/search?q=%23module-5-monorepos--submodules)
-8.  [Module 6: Project Management with GitHub Issues](https://www.google.com/search?q=%23module-6-project-management-with-github-issues)
-9.  [Module 7: CI/CD Pipelines with GitHub Actions](https://www.google.com/search?q=%23module-7-cicd-pipelines-with-github-actions)
-10. [Module 8: Debugging with Bisect & Blame](https://www.google.com/search?q=%23module-8-debugging-with-bisect--blame)
-11. [Module 9: Disaster Recovery Drills](https://www.google.com/search?q=%23module-9-disaster-recovery-drills)
-12. [Module 10: The Final Boss Simulation](https://www.google.com/search?q=%23module-10-the-final-boss-simulation)
+1.  [Introduction](#introduction)
+2.  [Prerequisites & Setup](#prerequisites--setup)
+3.  [Module 1: The Git Mental Model & Configuration](#module-1-the-git-mental-model--configuration)
+4.  [Module 2: Advanced Branching Strategies](#module-2-advanced-branching-strategies)
+5.  [Module 3: Surviving Merge Conflict Hell](#module-3-surviving-merge-conflict-hell)
+6.  [Module 4: Cleaning History with Interactive Rebase](#module-4-cleaning-history-with-interactive-rebase)
+7.  [Module 5: Monorepos & Submodules](#module-5-monorepos--submodules)
+8.  [Module 6: Project Management with GitHub Issues](#module-6-project-management-with-github-issues)
+9.  [Module 7: CI/CD Pipelines with GitHub Actions](#module-7-cicd-pipelines-with-github-actions)
+10. [Module 8: Debugging with Bisect & Blame](#module-8-debugging-with-bisect--blame)
+11. [Module 9: Disaster Recovery Drills](#module-9-disaster-recovery-drills)
+12. [Module 10: The Final Boss Simulation](#module-10-the-final-boss-simulation)
 
 -----
 
